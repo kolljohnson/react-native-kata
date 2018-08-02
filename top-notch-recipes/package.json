@@ -13,13 +13,32 @@
     "start": "react-native start",
     "android": "react-native run-android",
     "ios": "react-native run-ios",
-    "test": "jest"
+    "test": "jest",
+    "test:e2e": "detox test -c ios.sim.debug",
+    "test:e2e:build": "detox build"
   },
   "jest": {
-    "preset": "react-native"
+    "preset": "react-native",
+    "testEnvironment": "node",
+    "testURL": "http://localhost",
+    "testMatch": [
+      "<rootDir>/__tests__/**/*.test.js?(x)",
+      "<rootDir>/src/**/*.test.js"
+    ]
   },
   "dependencies": {
     "react": "16.3.1",
     "react-native": "~0.55.2"
+  },
+  "detox": {
+    "configurations": {
+      "ios.sim.debug": {
+        "binaryPath": "ios/build/Build/Products/Debug-iphonesimulator/topnotchrecipes.app",
+        "build": "xcodebuild -project ios/topnotchrecipes.xcodeproj -scheme topnotchrecipes -configuration Debug -sdk ipadsimulator -derivedDataPath ios/build",
+        "type": "ios.simulator",
+        "name": "iPad (5th generation)"
+      }
+    },
+    "test-runner": "jest"
   }
 }

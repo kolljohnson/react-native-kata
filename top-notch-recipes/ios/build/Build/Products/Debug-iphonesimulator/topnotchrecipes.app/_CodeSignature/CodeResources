@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		9ZQ/QvqKtPj2OByupKzrxl4x6CE=
+		tsyg0+dTCUT7M9QEfIbRi76flnY=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -63,7 +63,7 @@
 		</data>
 		<key>PlugIns/topnotchrecipesTests.xctest.dSYM/Contents/Resources/DWARF/topnotchrecipesTests</key>
 		<data>
-		wp+wQGAHKMYAE4uI3efbsCsJ4nw=
+		iLCnSa5gDiLy43J9WVOeo4fmzHU=
 		</data>
 		<key>PlugIns/topnotchrecipesTests.xctest/Info.plist</key>
 		<data>
@@ -75,7 +75,7 @@
 		</data>
 		<key>PlugIns/topnotchrecipesTests.xctest/topnotchrecipesTests</key>
 		<data>
-		e0fgeSM9M38OPYElzlmwJystJUE=
+		tcCujLzopxX7ORS8Q4NMRHShunM=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -84,11 +84,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9ZQ/QvqKtPj2OByupKzrxl4x6CE=
+			tsyg0+dTCUT7M9QEfIbRi76flnY=
 			</data>
 			<key>hash2</key>
 			<data>
-			UG6V1By1vYPTOAkceOiexjl4/yuVou9B/LhyQvIzQwM=
+			re4yRQv0Qwbc/6BYnIuDybo/5inpF5d4KJQzoKDBMjQ=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -207,11 +207,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wp+wQGAHKMYAE4uI3efbsCsJ4nw=
+			iLCnSa5gDiLy43J9WVOeo4fmzHU=
 			</data>
 			<key>hash2</key>
 			<data>
-			mbJEFSEZ0JuIx9ICcTCDOApPQ7VJXEL1oaScuWNgdmc=
+			Xmsa3zHfzunzwThZvUSTaJpybgktuRPEo2HOVRLCVAE=
 			</data>
 		</dict>
 		<key>PlugIns/topnotchrecipesTests.xctest/Info.plist</key>
@@ -240,11 +240,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			e0fgeSM9M38OPYElzlmwJystJUE=
+			tcCujLzopxX7ORS8Q4NMRHShunM=
 			</data>
 			<key>hash2</key>
 			<data>
-			B+FF4M1JQxEyaWECYIfertWzFBh9KtEixuCgRxqE3Ks=
+			P15IyhA3h/xc0W8BKG4qZ/Pp6z0a/iIRi1DBRuCm/3E=
 			</data>
 		</dict>
 	</dict>
